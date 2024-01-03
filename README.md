@@ -18,9 +18,9 @@ To start using MyNotes on your local machine, follow these steps:
 
 2. **Install Dependencies:** Install the necessary dependencies using your preferred package manager. (`npm install`)
 
-3. **Launch the App:** Start the app using the appropriate command. (`npm start`)
+3. **Launch the App:** Start the app using the appropriate command. (`npm run dev`)
 
-4. **Access the App:** Open your web browser and navigate to the provided local URL to experience MyNotes. 
+4. **Access the App:** Open your web browser and navigate to the provided local URL to experience MyNotes. (`http://127.0.0.1:5173/`)
 
 ## 🌐 Technologies & Styling
 
